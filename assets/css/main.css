@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
-@import url("fontawesome-all.min.css");
+@import url("https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css");
 
 /*
 	Aerial by HTML5 UP
@@ -555,7 +555,7 @@ input, select, textarea {
 
 		#header h1 {
 			font-size: 4.35em;
-			font-weight: 900;
+			font-weight: 500;
 			letter-spacing: -0.035em;
 			line-height: 1em;
 		}
